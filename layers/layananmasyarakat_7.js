@@ -1,0 +1,1 @@
+var json_layananmasyarakat_7 = {"type":"FeatureCollection","name":"layananmasyarakat_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nama":"Balai Desa Kebumen"},"geometry":{"type":"Point","coordinates":[109.231678439481584,-7.365333763955584]}}]}
